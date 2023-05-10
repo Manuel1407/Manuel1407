@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h2>Hi 👋, I'm Ikechukwu Iwunna. * Welcome to my profile 🤝</h2>
+<h2>Hi 👋, I'm Ikechukwu Iwunna. * Welcome to my profile * 🤝</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Manuel1407.Manuel1407)](https://github.com/Manuel1407) [![GitHub followers](https://img.shields.io/github/followers/Manuel1407.svg?style=social&label=Follow)](https://github.com/Manuel1407?tab=followers)
 
